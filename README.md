@@ -4,7 +4,7 @@ na qual pude desenvolver habilidades de classes abstratas e interfaces, conteudo
 
 Segue abaixo o que era pedido no exercicio:
 
-Implemente a hierarquia de classes ContaBancaria (superclasse), ContaCorrente (com senha, número, saldo e quantidade de transações realizadas) e ContaPoupanca (com senha, número, saldo e taxa de rendimento).
+*Implemente a hierarquia de classes ContaBancaria (superclasse), ContaCorrente (com senha, número, saldo e quantidade de transações realizadas) e ContaPoupanca (com senha, número, saldo e taxa de rendimento).
 
 quando uma ContaBancaria for criada, informe a senha da conta por parâmetro
 na classe ContaBancaria, crie os seguintes métodos abstratos (os métodos devem simular as situações acontecendo na conta corrente):
@@ -27,4 +27,4 @@ Exercício 3 - Crie uma interface chamada Rentavel, que representa tipos de obje
 
 Exercício 4 - Pense em outro objeto que pode implementar a interface Rentavel, e crie-o.
 
-Exercício 5 - No main criado anteriormente, crie um array de Rentavel e inclua alguns possívels objetos neste array. Imprima as informações do rendimento de cada um dos objetos armazenados no array.
+Exercício 5 - No main criado anteriormente, crie um array de Rentavel e inclua alguns possívels objetos neste array. Imprima as informações do rendimento de cada um dos objetos armazenados no array.*
